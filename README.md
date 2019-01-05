@@ -1,2 +1,2 @@
 # intelligent-text-processing
-the files for intelligent text processing for Daguan cup
+the file is for intelligent text processing of Daguan cup
